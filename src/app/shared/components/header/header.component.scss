@@ -1,0 +1,14 @@
+nav > a {
+  padding: 5px 10px;
+  text-decoration: none;
+  margin-right: 10px;
+}
+nav > a.active {
+  background-color: rgb(185, 37, 26);
+}
+.header-row{
+  width: 100%;
+}
+.header-toolbar {
+  margin-bottom: 20px;
+}
